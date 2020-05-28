@@ -28,6 +28,6 @@ Server High Concurrency Communication Framework with Business Logic Framework
 
 (3)多线程，线程之间的同步技术包括互斥量、信号量、条件变量等等
 
-(4)次要技术：单例模式，信号，日志打印，更改标题、fork()创建子进程，守护进程
+(4)次要技术：单例模式，信号，日志打印(手动实现print函数功能)，更改标题、fork()创建子进程，守护进程
 
 (5)连接池中的连接的延迟回收。
